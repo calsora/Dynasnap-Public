@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Dynasnap",
+  "version": "1.0",
+  "description": "Capture Dynamics 365 bugs intelligently and store in Azure DevOps",
+  "host_permissions": [
+    "https://*.visualstudio.com/*",
+    "https://app.vssps.visualstudio.com/*",
+    "*://*.dynamics.com/*",
+    "https://dynasnap-prod-func.azurewebsites.net/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon_16.png",
+      "48": "icons/icon_48.png",
+      "128": "icons/icon_128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": ["sidePanel", "activeTab", "identity", "storage", "scripting"],
+  "side_panel": {
+    "default_path": "sidebar.html"
+  },
+  "icons": {
+    "16": "icons/icon_16.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.dynamics.com/*"],
+      "js": ["content_script.js"]
+    }
+  ]
+}
