@@ -6,6 +6,6 @@ These files show exactly what permissions are used, and how the extension intera
 
 The main business logic and integration code remain private.
 
-## Feedback/Issues
+## Issues/Feedback
 
-Issues can be raised with the web extension and your feedback would be really valuable good/bad to make this extension better for everyone. 
+Issues can be raised with the web extension and your feedback would be really valuable good/bad to make this extension better :)
