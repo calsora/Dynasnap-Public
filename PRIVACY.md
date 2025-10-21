@@ -106,3 +106,5 @@ Built to save time for developers by letting have the details they need to fix a
 
 Transparency matters — extension permissions and security details are publicly available at:
 👉 https://github.com/calsora/Dynasnap-Public/tree/main/security
+
+Dynasnap is provided as-is without warranty. The developer is not responsible for data entered or transmitted through Microsoft systems.
