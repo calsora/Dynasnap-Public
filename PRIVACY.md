@@ -2,7 +2,7 @@
 
 Last updated: October 2025
 
-Dynasnap is a web browser extension developed by an independent developer to help users capture bug and feature reports in Dynamics 365 and send them securely to Azure DevOps.
+Dynasnap is a web browser extension developed by an independent developer to help users capture bug reports in Dynamics 365 and send them securely to Azure DevOps.
 
 Your privacy is important. This policy explains what information Dynasnap handles, how it’s used, and your rights as a user.
 
@@ -11,27 +11,27 @@ Your privacy is important. This policy explains what information Dynasnap handle
 Dynasnap does not collect, sell, or store personal data on external servers.
 All actions take place locally within your browser or through secure communication with Microsoft Azure services.
 
-When creating a work item (e.g., bug or feature), Dynasnap may temporarily process the following data to complete your request:
+When creating a work item (bug ), Dynasnap may temporarily process the following data to complete your request:
 
-Work item title and description (entered by you)
+- Work item title and description (entered by you)
 
-Optional screenshot data (captured with your consent)
+- Optional screenshot data (captured with your consent)
 
-Azure DevOps access token (used to authenticate your request)
+- Azure DevOps access token (used to authenticate your request)
 
-Organisation and project name (used to route your request)
+- Organisation and project name (used to route your request)
 
-Dynamics 365 diagnostic information, including:
+- Dynamics 365 diagnostic information, including:
 
-CRM environment URL
+    - CRM environment URL
+    
+    - User ID and username
+    
+    - Security roles
+    
+    - Record URL and related page details
 
-User ID and username
-
-Security roles
-
-Record URL and related page details
-
-✅ Clarification:
+Clarification:
 This diagnostic information is only captured when you manually submit a bug report.
 It is transmitted securely to a protected Azure Function, used only to create your Azure DevOps work item, and is not stored or logged long-term.
 
@@ -94,11 +94,15 @@ If you have any questions or concerns about privacy or data handling, please con
 
 Summary:
 
-Logs are minimal and short-lived
+Logs are minimal and short-lived.
 
-You control when data is sent
+You control when data is sent.
 
-Data is transmitted securely and never stored permanently
+Pat tokens are not used and instead the token is created once you have logged into Azure DevOps. 
+
+Data is transmitted securely and never stored permanently. 
+
+Built to save time for developers by letting have the details they need to fix a bug in Dynamics 365. 
 
 Transparency matters — extension permissions and security details are publicly available at:
 👉 https://github.com/calsora/Dynasnap-Public/tree/main/security
