@@ -12,6 +12,6 @@ These files show exactly what permissions are used, and how the extension intera
 
 ## Issues/Feedback
 
-Issues can be raised with the web extension and your feedback would be really valuable good/bad to make this extension better :)
+Issues can be raised with the web extension and your feedback would be really valuable (good or bad) to make this extension better :)
 
 _No commercial redistribution without permission_
