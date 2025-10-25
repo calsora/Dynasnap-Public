@@ -2,7 +2,7 @@
 
 Hi 👋 I built this web browser extension originally for myself working as a Dynamics 365 developer as I found that bugs were being stored in different places (Excel) or they didn't have enough information to fix. 
 
-Dynasnap's goal is to save developer's time by having all of the details at once (diagnositics from Dynamics 365, screenshots and page urls) in DevOps. 
+Dynasnap's goal is to save developer's time by having all of the details at once (diagnostics  from Dynamics 365, screenshots and page urls) in DevOps. 
 
 ## Security
 
