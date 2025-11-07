@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Dynasnap Privacy Policy
 
-Last updated: October 2025
+Last updated: November 2025
 
 Dynasnap is a web browser extension developed by an independent developer to help users capture bug reports in Dynamics 365 and send them securely to Azure DevOps.
 
@@ -65,9 +65,9 @@ Diagnostic information (e.g., CRM environment details, user roles, record URLs) 
 
 Dynasnap interacts only with:
 
-Microsoft Azure DevOps – to create or update work items
+Microsoft Azure DevOps to create or update work items
 
-Azure Function (developer-owned) – as a secure intermediary
+Azure Function (developer-owned) as a secure intermediary
 
 Dynasnap does not use analytics, tracking, cookies, or advertising tools.
 
@@ -89,12 +89,12 @@ You can remove Dynasnap at any time via your Chrome Extensions settings, which a
 
 This Privacy Policy may be updated periodically to reflect improvements or compliance changes.
 The latest version will always be available at:
-👉 https://github.com/calsora/Dynasnap-Public
+[privacy](dynasnap.dev/privacy.com)
 
 ## 7. Contact
 
 If you have any questions or concerns about privacy or data handling, please contact the developer through:
-👉 Dynasnap GitHub Issues or Discussions
+Dynasnap GitHub Issues or Discussions
 
 Summary:
 
@@ -109,6 +109,6 @@ Data is transmitted securely and never stored permanently.
 Built to save time for developers by letting have the details they need to fix a bug in Dynamics 365. 
 
 Transparency matters — extension permissions and security details are publicly available at:
-👉 https://github.com/calsora/Dynasnap-Public/tree/main/security
+[security](dynasnap.dev/security.com)
 
 Dynasnap is provided as-is without warranty. The developer is not responsible for data entered or transmitted through Microsoft systems.
