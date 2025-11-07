@@ -12,6 +12,8 @@ Simplify your bug tracking workflow capture context directly from Dynamics and p
 
 ---
 
-**Coming soon:** Edge Add-on Store support.
+**Coming soon:** 
+- Edge Add-on Store support.
+- Verified on the Azure marketplace
 
-Contact: [support@dynasnap.io](mailto:support@dynasnap.io)
+Contact: Raise a issue on the Github repo.
