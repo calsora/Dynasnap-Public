@@ -12,7 +12,7 @@ Simplify your bug tracking workflow capture context directly from Dynamics and p
 
 ---
 
-**Coming soon:** 
+**Backlog:** 
 - Edge Add-on Store support.
 - Verified on the Azure marketplace
 
