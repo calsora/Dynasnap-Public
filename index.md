@@ -17,3 +17,8 @@ Simplify your bug tracking workflow capture context directly from Dynamics and p
 - Verified on the Azure marketplace
 
 Contact: Raise a issue on the Github repo.
+
+**© 2025 Dynasnap**  
+{% for link in site.footer_links %}
+[{{ link.name }}]({{ link.url }})  
+{% endfor %}
