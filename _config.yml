@@ -3,3 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Dynasnap
 description: Log Dynamics 365 issues to Azure DevOps.
+footer_links:
+  - name: Privacy Policy
+    url: /privacy
+  - name: Security
+    url: /security
