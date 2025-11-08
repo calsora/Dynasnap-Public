@@ -2,7 +2,7 @@ Simplify your bug tracking workflow capture context directly from Dynamics and p
 
 Dynasnap's goal is to save developer's time by having all of the details at once (diagnostics from Dynamics 365, screenshots and page urls) in DevOps.
 
-[➡️ Install on Chrome](https://chromewebstore.google.com/detail/cefglnibcjbhdhgoheindnhacfebglnl?utm_source=item-share-cb)
+[➡️ Install on Chrome for free](https://chromewebstore.google.com/detail/cefglnibcjbhdhgoheindnhacfebglnl?utm_source=item-share-cb)
 
 ## Demo
 
