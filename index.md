@@ -1,6 +1,6 @@
 # Dynasnap
 
-**The simplest way to capture bugs in Dynamics 365 and to log them in Azure DevOps.**
+**The simplest way to capture bugs in Dynamics 365 and log them to Azure DevOps.**
 
 Simplify your bug tracking workflow capture context directly from Dynamics and push it into Azure DevOps without switching tabs.
 
