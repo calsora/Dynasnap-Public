@@ -1,0 +1,9 @@
+---
+---
+
+// Override Cayman theme variables BEFORE import
+$header-bg-color: #db684c;       // Your new primary colour (blue example)
+$section-headings-color: #0d6efd;
+$link-color: #0d6efd;
+
+@import "{{ site.theme }}";
