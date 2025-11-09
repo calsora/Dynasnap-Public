@@ -1,3 +1,24 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  border-radius: 8px; /* optional */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
 **Simplify your bug tracking workflow capture context directly from Dynamics and push it into Azure DevOps without switching tabs.**
 
 **Dynasnap's goal is to save developer's time by having all of the details at once (diagnostics from Dynamics 365, screenshots and page urls) in DevOps.**
@@ -6,7 +27,16 @@
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7flJ4dwBPuw?si=8qZVUYH8ly5qL8Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/7flJ4dwBPuw?si=8qZVUYH8ly5qL8Jw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
