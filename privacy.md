@@ -104,11 +104,16 @@ You control when data is sent.
 
 Pat tokens are not used and instead the token is created once you have logged into Azure DevOps. 
 
-Data is transmitted securely and never stored permanently. 
+Data is transmitted securely and never stored permanently.
 
 Built to save time for developers by letting have the details they need to fix a bug in Dynamics 365. 
 
 Transparency matters — extension permissions and security details are publicly available at:
 [security](dynasnap.dev/security.com)
+
+<footer class="site-footer">
+  <p>
+    <a href="{{ '/' | relative_url }}">Home</a>
+</footer>
 
 Dynasnap is provided as-is without warranty. The developer is not responsible for data entered or transmitted through Microsoft systems.
