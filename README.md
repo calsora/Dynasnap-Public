@@ -6,7 +6,7 @@ Dynasnap's goal is to save developer's time by having all of the details at once
 
 [➡️ Install on Chrome](https://chromewebstore.google.com/detail/cefglnibcjbhdhgoheindnhacfebglnl?utm_source=item-share-cb)
 
-[dynasnap.dev(dynasnap.dev)]
+[dynasnap.dev](https://dynasnap.dev)
 
 <img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/b513a160-8abb-43b2-8112-cec9db5f6103" />
 <img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/48c71356-eef9-4100-8630-570b028af253" />
