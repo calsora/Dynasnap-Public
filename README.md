@@ -14,12 +14,12 @@ Dynasnap's goal is to save developer's time by having all of the details at once
 
 ## Security
 
-This [link](https://dynasnap.dev/) contains the core manifest and content scripts used in the Dynasnap Chrome extension.
+This [link](https://dynasnap.dev/security) contains the core manifest and content scripts used in the Dynasnap Chrome extension.
 
 These files show exactly what permissions are used, and how the extension interacts with the browser.
 
 ## Issues/Feedback
 
-Issues can be raised with the web extension and your feedback would be really valuable (good or bad) to make this extension better :)
+Issues can be raised within the repository and your feedback would be really valuable (good or bad) to make this extension better :)
 
 _No commercial redistribution without permission_
