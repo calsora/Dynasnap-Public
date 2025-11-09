@@ -88,8 +88,7 @@ You can remove Dynasnap at any time via your Chrome Extensions settings, which a
 ## 6. Updates to This Policy
 
 This Privacy Policy may be updated periodically to reflect improvements or compliance changes.
-The latest version will always be available at:
-[privacy](dynasnap.dev/privacy.com)
+The latest version will always be available on this page. 
 
 ## 7. Contact
 
