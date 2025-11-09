@@ -40,6 +40,12 @@
 
 ---
 
+## Features
+
+<img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/48c71356-eef9-4100-8630-570b028af253" />
+<img width="1280" height="800" alt="3" src="https://github.com/user-attachments/assets/7a206fa1-071c-4a46-acfa-c166c34822bd" />
+<img width="1280" height="800" alt="4" src="https://github.com/user-attachments/assets/482c8274-5fc5-4732-9468-e15c842a15b1" />
+
 **Backlog:** 
 - Edge Add-on Store support.
 - Verified on the Azure marketplace. 
