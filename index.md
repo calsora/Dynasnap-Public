@@ -1,6 +1,6 @@
-Simplify your bug tracking workflow capture context directly from Dynamics and push it into Azure DevOps without switching tabs.
+**Simplify your bug tracking workflow capture context directly from Dynamics and push it into Azure DevOps without switching tabs.**
 
-Dynasnap's goal is to save developer's time by having all of the details at once (diagnostics from Dynamics 365, screenshots and page urls) in DevOps.
+**Dynasnap's goal is to save developer's time by having all of the details at once (diagnostics from Dynamics 365, screenshots and page urls) in DevOps.**
 
 [➡️ Install on Chrome](https://chromewebstore.google.com/detail/cefglnibcjbhdhgoheindnhacfebglnl?utm_source=item-share-cb)
 
@@ -14,15 +14,9 @@ Dynasnap's goal is to save developer's time by having all of the details at once
 - Edge Add-on Store support.
 - Verified on the Azure marketplace. 
 
-{% for link in site.footer_links %}
-[{{ link.name }}]({{ link.url }})  
-{% endfor %}
-
-- **© 2025 Dynasnap**  
-
 Contact: Raise a issue on the Github repo.
 
-**© 2025 Dynasnap**  
 {% for link in site.footer_links %}
 [{{ link.name }}]({{ link.url }})  
 {% endfor %}
+**© 2025 Dynasnap**  
