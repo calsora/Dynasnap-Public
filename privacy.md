@@ -109,6 +109,6 @@ Data is transmitted securely and never stored permanently.
 Built to save time for developers by letting have the details they need to fix a bug in Dynamics 365. 
 
 Transparency matters — extension permissions and security details are publicly available at:
-[security](dynasnap.dev/security.com)
+[security](dynasnap.dev/security)
 
 Dynasnap is provided as-is without warranty. The developer is not responsible for data entered or transmitted through Microsoft systems.
