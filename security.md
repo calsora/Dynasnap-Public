@@ -113,10 +113,5 @@ The below code is listed to make it transparent what Dynasnap uses.
 }
 
 ```
-<footer class="site-footer">
-  <p>
-    <a href="{{ '/' | relative_url }}">Home</a>
-</footer>
-
 
 
